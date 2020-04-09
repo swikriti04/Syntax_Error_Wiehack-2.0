@@ -1,4 +1,4 @@
-# Wiehack-2.0
+# Syntax_Error_Wiehack-2.0
 
 Team name: "Syntax Error"
 Product: VSandBox
